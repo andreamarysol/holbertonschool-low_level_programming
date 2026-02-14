@@ -2,6 +2,8 @@
 
 /**
  * main - prints all single digit numbers
+ *
+ * Return: 0 always (success)
  */
 int main(void)
 {
